@@ -1,0 +1,15 @@
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\bin\Debug\net6.0\InlamningsuppgiftConsole.exe
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\bin\Debug\net6.0\InlamningsuppgiftConsole.deps.json
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\bin\Debug\net6.0\InlamningsuppgiftConsole.runtimeconfig.json
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\bin\Debug\net6.0\InlamningsuppgiftConsole.dll
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\bin\Debug\net6.0\ref\InlamningsuppgiftConsole.dll
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\bin\Debug\net6.0\InlamningsuppgiftConsole.pdb
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\obj\Debug\net6.0\InlamningsuppgiftConsole.csproj.AssemblyReference.cache
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\obj\Debug\net6.0\InlamningsuppgiftConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\obj\Debug\net6.0\InlamningsuppgiftConsole.AssemblyInfoInputs.cache
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\obj\Debug\net6.0\InlamningsuppgiftConsole.AssemblyInfo.cs
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\obj\Debug\net6.0\InlamningsuppgiftConsole.csproj.CoreCompileInputs.cache
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\obj\Debug\net6.0\InlamningsuppgiftConsole.dll
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\obj\Debug\net6.0\ref\InlamningsuppgiftConsole.dll
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\obj\Debug\net6.0\InlamningsuppgiftConsole.pdb
+C:\Skolan\c#\InlamningsuppgiftConsole\InlamningsuppgiftConsole\obj\Debug\net6.0\InlamningsuppgiftConsole.genruntimeconfig.cache
